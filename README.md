@@ -1,4 +1,4 @@
-# Тестовое задание (также был файл со спецификацией)
+# Тестовое задание 
 ## Файл со спецификацией : QA TEST TASK - Specification
 Test functionality of the following site https://test.qa.saritasa.com/admin/login
 
